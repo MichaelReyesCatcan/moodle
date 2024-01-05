@@ -1,0 +1,5 @@
+issueNumber: MDL-79215
+notes:
+  core:
+    - message: Typecasting variables to INT. Fixing graphlib->draw_brush
+      type: fixed
