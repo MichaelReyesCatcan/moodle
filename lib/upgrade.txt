@@ -5,6 +5,7 @@ information provided here is intended especially for developers.
 
 * The `\core\dataformat::get_format_instance` method is now public, and can be used to retrieve a writer instance for
   a given dataformat
+* Typecasting round() function to an integer in lib/graphlib.php and graphlib_test.php.
 
 === 4.3.4 ===
 
